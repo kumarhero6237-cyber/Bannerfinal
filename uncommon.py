@@ -296,7 +296,7 @@ async def uncommon_home() -> HTMLResponse:
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>RAMSAGAR[HACKER] API</title>
+        <title>.  RAMSAGAR   [HACKER] API</title>
         <style>
             * {
                 margin: 0;
@@ -541,7 +541,7 @@ async def uncommon_home() -> HTMLResponse:
     </head>
     <body>
         <div class="glass">
-            <div class="title">RAMSAGAR[HACKER] API</div>
+            <div class="title"> RAMSAGAR    [HACKER] API</div>
             <div class="sub-brand">✦ Free Fire Banner Generator ✦</div>
 
             <!-- Form -->
