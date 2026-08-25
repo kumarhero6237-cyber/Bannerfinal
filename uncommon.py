@@ -296,7 +296,7 @@ async def uncommon_home() -> HTMLResponse:
     <head>
         <meta charset="UTF-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>RAMSAGAR[HACKER] Banner API</title>
+        <title>RAMSAGAR[HACKER] API</title>
         <style>
             * {
                 margin: 0;
@@ -541,7 +541,7 @@ async def uncommon_home() -> HTMLResponse:
     </head>
     <body>
         <div class="glass">
-            <div class="title">RAMSAGAR[HACKER] Banner API</div>
+            <div class="title">RAMSAGAR[HACKER] API</div>
             <div class="sub-brand">✦ Free Fire Banner Generator ✦</div>
 
             <!-- Form -->
@@ -563,7 +563,7 @@ async def uncommon_home() -> HTMLResponse:
             <hr class="divider">
 
             <div class="credits">
-                <span>⚜️ Made by <a href="https://t.me/RAMSAGAR_OFC" target="_blank">TELEGRAM</a></span>
+                <span>⚜️ Made by <a href="https://t.me/RAMSAGAR_OFC" target="_blank">©️RAMSAGAR</a></span>
                 <span class="channel">📢 Channel <a href="https://whatsapp.com/channel/0029VaEIdBk4yltWBFi0E711" target="_blank">WHATSAPP</a></span>
             </div>
         </div>
