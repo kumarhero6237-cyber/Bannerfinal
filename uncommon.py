@@ -651,11 +651,11 @@ async def uncommon_get_banner(uid: str) -> Response:
     data = resp.json()
 
     # New API does not return a 'code' field; validate presence of basicInfo
-    if "AccountInfo" not in data:
+    if "basicInfo" not in data:
         raise HTTPException(404, "Invalid response: missing basicInfo")
 
-    basic_info = data.get("AccountInfo", {})
-    clan_info = data.get("GuildInfo", {})
+    basic_info = data.get("basicInfo", {})
+    clan_info = data.get("clanBasicInfo", {})
 
     name = basic_info.get("nickname", "Unknown")
     level = basic_info.get("level", "0")
